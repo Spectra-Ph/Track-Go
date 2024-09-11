@@ -4,7 +4,7 @@ Login Page <br />
 Home page: Gym address; streak <br />
 Log out <br />
 <br />
-Building Track&Go sounds like a fantastic project! To break it down, here’s a comprehensive list of requirements and suggested technologies for each part of the application: .
+
 
 ### **Requirements**
 
